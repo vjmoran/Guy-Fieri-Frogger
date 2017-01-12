@@ -51,7 +51,7 @@ def main():
     RATE = 8
 
     if grutorMode == False:
-        lives = 10
+        lives = 3
         livesText = text(pos = (-49,45,0), text = 'Lives: ' + str(lives), height = 3)
 
     win = 0 # variable represents number of ingredients Guy has gotten
