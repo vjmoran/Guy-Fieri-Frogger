@@ -1,9 +1,10 @@
 **Running the File**
 
 First, make sure that you have the latest version of Python. Then, download the .zip file of this repository.
-In terminal, type the following lines:
+In Terminal, type the following lines:
 
 *cd Downloads*
+
 
 *cd Guy-Fieri-Frogger-master*
 
