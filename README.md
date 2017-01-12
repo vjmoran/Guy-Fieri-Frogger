@@ -3,11 +3,11 @@
 First, make sure that you have the latest version of Python. Then, download the .zip file of this repository.
 In terminal, type the following lines:
 
-cd Downloads
+*cd Downloads*
 
-cd Guy-Fieri-Frogger-master
+*cd Guy-Fieri-Frogger-master*
 
-/usr/local/bin/python Frogger.py
+*/usr/local/bin/python Frogger.py*
 
 
 **Instructions**
