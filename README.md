@@ -1,6 +1,6 @@
 **Running the File**
 
-First, make sure that you have the latest version of Python. Then, download the .zip file of this repository.
+First, make sure that you have the latest version of Python. Then, download and unzip the .ZIP file of this repository.
 In Terminal, type the following lines:
 
 *cd Downloads*
