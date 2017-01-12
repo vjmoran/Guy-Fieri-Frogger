@@ -1,3 +1,10 @@
+**Running the File**
+
+First, make sure that you have the latest version of Python. Then, download the .zip file of this repository.
+In terminal, type the following lines:
+cd Downloads
+
+
 **Instructions**
 
 Use the “up”, “down”, “left”, and “right” keys to control the movement of Guy Fieri in order to avoid the cars and the water. 
