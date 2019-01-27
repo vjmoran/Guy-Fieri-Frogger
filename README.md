@@ -10,7 +10,7 @@ In Terminal, type the following lines:
 
 *cd Guy-Fieri-Frogger-master*
 
-*/usr/local/bin/python Frogger.py*
+*python Frogger.py*
 
 
 **Instructions**
