@@ -7,11 +7,10 @@ In Terminal, type the following lines:
 
 *cd Downloads*
 
-
 *cd Guy-Fieri-Frogger-master*
 
 *python Frogger.py*
-
+(Download Python at https://www.python.org/downloads if needed)
 
 **Instructions**
 
