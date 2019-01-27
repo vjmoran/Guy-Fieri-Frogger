@@ -2,7 +2,7 @@
 
 **Running the File**
 
-First, make sure that you have the latest version of Python. Then, download and unzip the .ZIP file of this repository.
+First, make sure that you have the latest version of Python (download at https://www.python.org/downloads if needed). Then, download and unzip the .ZIP file of this repository.
 In Terminal, type the following lines:
 
 *cd Downloads*
@@ -10,8 +10,6 @@ In Terminal, type the following lines:
 *cd Guy-Fieri-Frogger-master*
 
 *python Frogger.py*
-
-(Download Python at https://www.python.org/downloads if needed)
 
 **Instructions**
 
